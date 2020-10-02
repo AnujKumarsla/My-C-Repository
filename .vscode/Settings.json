@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "'Poppins',Roboto Mono,Consolas, 'Courier New', monospace",
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\cmd.exe",
+    "terminal.integrated.fontFamily": "monospace",
+    "window.zoomLevel": 0
+}
